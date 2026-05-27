@@ -204,7 +204,7 @@ The dashboard was designed around four major reporting areas.
 
 # Dashboard Preview
 
-![Dashboard Screenshot](Screenshot Dashboard 1.png)
+![Dashboard Screenshot](dashboard1.png)
 
 ---
 
