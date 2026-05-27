@@ -204,7 +204,7 @@ The dashboard was designed around four major reporting areas.
 
 # Dashboard Preview
 
-![Medical Dashboard](Screenshot Dashboard 1.png)
+![(Screenshot Dashboard 1.png)
 
 ---
 
