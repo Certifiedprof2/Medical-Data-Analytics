@@ -201,6 +201,11 @@ The dashboard was designed around four major reporting areas.
 - Appointment trends
 
 ---
+ER Diagram
+
+This diagram shows the relationship between patients, encounters, treatments, doctors, payers, and hospital organizations.
+
+![ER Diagram](ER Diagram Screenshot.png)
 
 # Dashboard Preview
 
