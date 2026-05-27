@@ -205,7 +205,7 @@ ER Diagram
 
 This diagram shows the relationship between patients, encounters, treatments, doctors, payers, and hospital organizations.
 
-![ER Diagram](er_diagram1.png)
+![ER Diagram](er_diagram 1.png)
 
 # Dashboard Preview
 
